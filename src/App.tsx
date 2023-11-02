@@ -19,7 +19,7 @@ return response.json()
   console.log (json)
   setData (json)
 })
-
+if (!data){<div>loading...</div>}
  }
   return (
    <div>
